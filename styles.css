@@ -50,7 +50,8 @@ body{
     position: relative;
 }
 .Main .Number{
-    padding: 0 ;
+    /* position: absolute; */
+    width: 80%;
     
     
 
